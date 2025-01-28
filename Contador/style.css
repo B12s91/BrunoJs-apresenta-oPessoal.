@@ -1,0 +1,24 @@
+.ubuntu-bold {
+  font-family: "Ubuntu", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+p{
+  font-family: "Ubuntu", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h1{
+  text-align: center;
+  color: blue;
+  background-color: black;
+}
+.title{
+  background-color: black;
+  color: white;
+}
+body{
+  color: white;
+  background: black;
+  text-align: center;
+}
